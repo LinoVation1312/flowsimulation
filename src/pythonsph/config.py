@@ -1,7 +1,7 @@
 """Configuration file defining the simulation parameters."""
 
 # Simulation parameters
-N = 250  # Number of particles
+N = 2000  # Number of particles
 SIM_W = 0.5  # Simulation space width
 BOTTOM = 0  # Simulation space ground
 DAM = -0.3  # Position of the dam, simulation space is between -0.5 and 0.5
