@@ -19,7 +19,7 @@ Make sure you have Python installed on your computer. Then, in a terminal, run t
 **1. Install the package with pip in your terminal:**
 
 ```bash
-pip install git+https://https://github.com/LinoVation1312/flowsimulation.git
+pip install git+https://github.com/LinoVation1312/flowsimulation.git
 ```
 
 **2. Run the simulation:**
