@@ -2,10 +2,10 @@
 
 # Simulation parameters
 N = 2000  # Number of particles
-SIM_W = 0.5  # Simulation space width
+SIM_W = 0.01  # Simulation space width
 BOTTOM = 0  # Simulation space ground
 DAM = -0.3  # Position of the dam, simulation space is between -0.5 and 0.5
-DAM_BREAK = 200  # Number of frames before the dam breaks
+DAM_BREAK = 20  # Number of frames before the dam breaks
 
 # Physics parameters
 G = 0.02 * 0.25  # Acceleration of gravity
